@@ -1,0 +1,29 @@
+
+body {
+    background-color: #F2FFFC;
+}
+
+
+p {
+    text-align: justify;
+    font-family:"Crimson Text", sans-serif; 
+}
+
+h1 {
+
+    font-size: 60px;
+    /* O 0 em todos define o preto, já o 255 que é a cor máxima define a cor */
+    background-color:rgb(133, 25, 68);
+    /* Forma máxima é o f e mínima é o a */
+    color: #FFF;
+    text-align: center;
+    font-family: "Open Sans Condensed"; 
+}
+
+h2{
+
+    /*Podemos usar uma fonte nativa do computador juntamente com características, como a  sans-serif, ela retira as abas e as serifas que estão nas letras como as pontas */
+
+    font-family: "Open Sans Condensed",sans-serif;
+    font-size: 40px;
+}
